@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @collinjia.
 - 👀 I’m interested in data analytics and machine learning.
 - 🌱 I’m currently learning Python, GO and ML algorithms.
-
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/collin-jia/)
 
 <!---
 collinjia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
