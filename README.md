@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruoxi Jia.
-- 👀 I’m interested in data analytics and machine learning.
-- 🌱 I’m currently learning Python, GO and ML algorithms.
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning Python, R and ML algorithms.
 - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/collin-jia/)
 
 <!---
